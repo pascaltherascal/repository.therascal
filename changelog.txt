@@ -1,0 +1,37 @@
+[B]4.7.14.1[/B]
+
+Ready for Nexus and some small changes
+
+[B]4.7.13.13[/B]
+
+Added Icon dynamics
+
+[B]4.7.13.12[/B]
+
+Update folder/addon icons and some setting changes
+
+[B]4.7.13.11[/B]
+
+Update some icons and settings
+
+[B]4.7.13.10[/B]
+
+Update some icons and settings
+
+[B]4.7.13.7[/B]
+
+Update some icons and settings
+
+[B]4.7.13.6[/B]
+
+Updates
+
+[B]4.7.13.5[/B]
+
+Update busy spinner (reversed)
+
+[B]4.7.*.*[/B]
+
+- Skin redesign Confluence by Pascal
+
+
